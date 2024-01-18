@@ -6,7 +6,7 @@
 - Data Engineer.
 - Bachelor of Science and Technology - Federal University of ABC (UFABC).
 - Bachelor of Computer Science - Federal University of ABC (UFABC).
-- Languagues: Português, English and Français.
+- Languages: Português, English and Français
 
 ## Tech Stack
 
@@ -21,6 +21,13 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradolucas&hide=rank&show_icons=true&show=prs_merged&theme=dracula&hide_title=false&include_all_commits=true&rank_icon=github)](https://github.com/pradolucas/github-readme-stats)
 -->
 
+## Interests
+
+- Data Engineering
+- Cloud Computing (AWS, GCP, and Azure)
+- Databases (MySQL, PostgreSQL)
+- Data Science and AI
+  
 # Socials
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-prado-santos)
