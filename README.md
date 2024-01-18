@@ -3,9 +3,10 @@
 ## About Me
 
 - Based in São Paulo.
-- Bachelor of Science and Technology - Federal University of ABC (UFABC)
-- Bachelor of Computer Science - Federal University of ABC (UFABC)
-- Languagues: Português, English and Français
+- Data Engineer.
+- Bachelor of Science and Technology - Federal University of ABC (UFABC).
+- Bachelor of Computer Science - Federal University of ABC (UFABC).
+- Languagues: Português, English and Français.
 
 ## Tech Stack
 
