@@ -6,7 +6,7 @@
 - Data Engineer.
 - Bachelor of Science and Technology - Federal University of ABC (UFABC).
 - Bachelor of Computer Science - Federal University of ABC (UFABC).
-- Languages: Português, English and Français
+- Languages: English, Portuguese and French
 
 ## Tech Stack
 
